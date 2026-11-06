@@ -1,0 +1,10 @@
+representation,architecture,accuracy,acc_std,macro_f1,epochs,minutes
+bow+bigrams,loglinear,0.577,0.013,0.575,6736.467,2.271
+bow+bigrams,mlp,0.577,0.012,0.576,5000.0,33.533
+bow,mlp,0.573,0.016,0.571,5000.0,6.732
+indicator,mlp,0.571,0.016,0.57,5000.0,6.844
+bow+bigrams,deep_mlp,0.569,0.014,0.568,5000.0,52.812
+indicator,loglinear,0.567,0.014,0.564,6603.333,0.544
+bow,loglinear,0.567,0.013,0.565,6575.467,0.493
+bow,deep_mlp,0.556,0.016,0.555,5000.0,10.001
+indicator,deep_mlp,0.548,0.012,0.547,5000.0,11.955
