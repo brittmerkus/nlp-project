@@ -1,0 +1,7 @@
+A,B,mean diff (B-A),P(A better),P(tie),P(B better)
+indicator + loglinear,bow + loglinear,0.0,0.01,0.976,0.015
+bow + loglinear,bow+bigrams + loglinear,0.026,0.0,0.0,1.0
+indicator + loglinear,bow+bigrams + loglinear,0.026,0.0,0.0,1.0
+bow + loglinear,bow + mlp,-0.017,0.916,0.084,0.0
+bow+bigrams + loglinear,bow+bigrams + mlp,-0.012,0.718,0.282,0.0
+bow + mlp,bow + deep_mlp,-0.092,1.0,0.0,0.0
