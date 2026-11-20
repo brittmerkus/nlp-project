@@ -1,0 +1,13 @@
+{
+  "enc_kwargs": {
+    "freeze_embeddings": false,
+    "padding_idx": 0
+  },
+  "regressor_kwargs": {
+    "hidden_size1": 100,
+    "hidden_size2": 50,
+    "dropout": 0.07096465552135993,
+    "num_classes": 7
+  },
+  "enc_type": "embed-and-pool"
+}
