@@ -1,0 +1,12 @@
+,,texts,project 1,embed-and-pool,LSTM,LSTM − pool
+length (words),"(0.999, 12.0]",2053,0.554,0.541,0.564,0.023
+length (words),"(12.0, 19.0]",1699,0.546,0.538,0.566,0.027
+length (words),"(19.0, 30.0]",1879,0.6,0.596,0.603,0.007
+length (words),"(30.0, 178.0]",1780,0.608,0.616,0.622,0.006
+unknown word,False,6764,0.575,0.571,0.588,0.016
+unknown word,True,647,0.596,0.58,0.594,0.013
+negation,False,5201,0.592,0.598,0.611,0.013
+negation,True,2210,0.54,0.512,0.535,0.023
+emotion word,none,5266,0.498,0.488,0.502,0.014
+emotion word,other emotion,303,0.299,0.277,0.26,-0.018
+emotion word,own emotion,1842,0.849,0.861,0.889,0.028
