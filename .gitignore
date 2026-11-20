@@ -5,3 +5,4 @@ data/
 .venv/
 .vscode/*.zip
 embeddings/
+results/project2/models/
